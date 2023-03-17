@@ -1,0 +1,5 @@
+ad = input("Adiniz:")
+soyad = input("Soyadiniz:")
+adres = input("Adresiniz:")
+print(ad, soyad, adres, sep="\n")
+print("*" * len(adres))
